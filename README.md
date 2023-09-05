@@ -24,7 +24,7 @@
 ### National Library of the Republic of the Banana Islands
 
 
-This project, as part of the tracing of Banana culture, aims to protect and inherit the long cultural history and heritage of Banana. Currently included are three versions of 'ICU Legend' written by WiFi. This book records the stories of legendary figures such as Tian Haoke, Tang Wanren, Xiao Di, Ke Sun Wang Wei, who were born at the beginning of the founding of Banana under the constant wars and competitions of the Four Forces. As stated at the beginning of this book:
+This project, as part of the tracing of Banana culture, aims to protect and inherit the long cultural history and heritage of Banana. Currently included are three versions of 'ICU Legend' written by WiFi. This book records the stories of legendary figures such as Tian Hulk, Tang Wanren, Xiao Di Krypton and Sun Wang Wei, who were born at the beginning of the founding of Banana under the constant wars and competitions of the Four Forces. As stated at the beginning of this book:
 
 
 
