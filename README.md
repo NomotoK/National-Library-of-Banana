@@ -8,3 +8,28 @@
 
 
 目前为止本仓库还缺失了四卷《蕉人传》，以及《菲奥娜之诗》《班拿纳国家宪法》《班拿纳群岛行政区划地图》各一卷。
+
+
+## 当前馆藏目录：
+* [†Legend Of Intensive Care 20Unit†20200322](https://github.com/xinhongM/National-Library-of-Banana/tree/main/%E2%80%A0Legend%20Of%20Intensive%20Care%2020Unit%E2%80%A020200322%202)
+    * [三种不同的战斗力体系](https://github.com/xinhongM/National-Library-of-Banana/tree/25726b99ce0ae39c9ccdaf62bf2282acc295c959/%E2%80%A0Legend%20Of%20Intensive%20Care%2020Unit%E2%80%A020200322%202/%E4%B8%89%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B%E4%BD%93%E7%B3%BB)
+        * 拳头大陆
+        * 能力者
+        * 职业者
+    * [正文](https://github.com/xinhongM/National-Library-of-Banana/blob/25726b99ce0ae39c9ccdaf62bf2282acc295c959/%E2%80%A0Legend%20Of%20Intensive%20Care%2020Unit%E2%80%A020200322%202/ICU%20v2.0.docx)
+ 
+
+
+## English
+### National Library of the Republic of the Banana Islands
+
+
+This project, as part of the tracing of Banana culture, aims to protect and inherit the long cultural history and heritage of Banana. Currently included are three versions of 'ICU Legend' written by WiFi. This book records the stories of legendary figures such as Tian Haoke, Tang Wanren, Xiao Di, Ke Sun Wang Wei, who were born at the beginning of the founding of Banana under the constant wars and competitions of the Four Forces. As stated at the beginning of this book:
+
+
+
+>No one knows when the war started. When the songs were written, there were no good or evil, no right or wrong, except a different stance. In countless years, countless civilizations have vanished and galaxies have ruined. Life is so fragile in this war that affects >most of the multiverse. In an ordinary corners have not yet been touched, the small Milky Way galaxy is spinning alone with its stars. A blue planet adorns it, so ordinary and fragile.
+
+
+
+So far, this repo is missing four volumes of the "Biography of the Banana Man", as well as one volume of the "Poems of Fiona", one volume of the "Banana National Constitution", and one volume of the "Banana Islands Administrative Map".
